@@ -2,11 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PUBUDU%20SATHSARA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Systems%20Security&descAlignY=55&descSize=18)
 
-</div>
-
-<div align="center" ### Hello World! 👋 I'm Pubudu Sathsara  </div>
-
-<div align="center">
+### Hello World! 👋 I'm Pubudu Sathsara
 
 ![Profile views](https://komarev.com/ghpvc/?username=pubudu1019&color=blueviolet&style=flat)
 

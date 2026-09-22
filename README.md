@@ -4,7 +4,7 @@
 
 </div>
 
-### Hello World! 👋 I'm Pubudu Sathsara
+<div align="center" ### Hello World! 👋 I'm Pubudu Sathsara  </div>
 
 <div align="center">
 
